@@ -28,7 +28,7 @@ typedef struct list_ele {
      * whenever an element is inserted and removed from the queue.
      */
     char *value;
-
+	
     /**
      * @brief Pointer to the next element in the linked list.
      */
