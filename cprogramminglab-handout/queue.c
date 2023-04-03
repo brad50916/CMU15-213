@@ -27,6 +27,8 @@ queue_t *queue_new(void) {
     queue_t *q = malloc(sizeof(queue_t));
     /* What if malloc returned NULL? */
     q->head = NULL;
+	q->last = NULL;
+	q->size = 0;
     return q;
 }
 
@@ -53,13 +55,32 @@ void queue_free(queue_t *q) {
  * @return false if q is NULL, or memory allocation failed
  */
 bool queue_insert_head(queue_t *q, const char *s) {
+	if(q==NULL) return false;
     list_ele_t *newh;
     /* What should you do if the q is NULL? */
     newh = malloc(sizeof(list_ele_t));
+	if(newh==NULL){
+		free(newh);
+		return false;
+	}
     /* Don't forget to allocate space for the string and copy it */
     /* What if either call to malloc returns NULL? */
-    newh->next = q->head;
-    q->head = newh;
+	newh->value = malloc(strlen(s)+1);
+	if(newh->value==NULL){
+		free(newh->value);
+		return false;
+	}
+	strcpy(new->value,s);
+	
+	if(q->head==NULL){
+		newh->next = q->head;
+		q->head = newh;
+		q->last = newh;
+	}else{
+		newh->nest = q->head;
+		q->head = newh;
+	}
+	q->size++;
     return true;
 }
 
@@ -78,7 +99,29 @@ bool queue_insert_head(queue_t *q, const char *s) {
 bool queue_insert_tail(queue_t *q, const char *s) {
     /* You need to write the complete code for this function */
     /* Remember: It should operate in O(1) time */
-    return false;
+	if(q==NULL) return false;
+	list_ele_t newt = malloc(sizeof(list_ele_t));
+	if(newt==NULL){
+		free(newt);
+		return false;
+	}
+	newt->value = malloc(strlen(s)+1);
+	if(newt->value==NULL){
+		free(newt->value);
+		return false;
+	}
+	strcpy(newt->value,s);
+	if(q->head==NULL){
+		newt->next=NULL;
+		q->head=newt;
+		q->last=newt;
+	}else{
+		newt->next=NULL;
+		q->last->next=newt;
+		q->last=newt;
+	}
+	q->size++;
+    return true;
 }
 
 /**
