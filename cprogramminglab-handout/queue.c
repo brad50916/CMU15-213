@@ -79,7 +79,7 @@ bool queue_insert_head(queue_t *q, const char *s) {
 	/* Sizeof(char) = 1 */
 	newh->value = (char*)malloc(strlen(s)+1);
 	if(newh->value==NULL){
-		free(newh->value);
+		free(newh);
 		return false;
 	}
 	strcpy(newh->value,s);
@@ -120,7 +120,7 @@ bool queue_insert_tail(queue_t *q, const char *s) {
 	// Sizeof(char) = 1
 	newt->value = (char*)malloc(strlen(s)+1);
 	if(newt->value==NULL){
-		free(newt->value);
+		free(newt);
 		return false;
 	}
 	strcpy(newt->value,s);
