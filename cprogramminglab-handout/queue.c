@@ -38,6 +38,16 @@ queue_t *queue_new(void) {
  */
 void queue_free(queue_t *q) {
     /* How about freeing the list elements and the strings? */
+	if(q==NULL) return;
+	list_ele_t *n = q->head;
+	while(n != NULL){
+		list_ele_t *cur = n;
+		n = n->next;
+		free(cur->value);
+		free(cur->next);
+		free(cur);
+	}
+	free(n);
     /* Free queue structure */
     free(q);
 }
@@ -145,6 +155,8 @@ bool queue_insert_tail(queue_t *q, const char *s) {
  */
 bool queue_remove_head(queue_t *q, char *buf, size_t bufsize) {
     /* You need to fix up this code. */
+	if(q == NULL) return false;
+	if(q->head == NULL) return false;
     q->head = q->head->next;
     return true;
 }
