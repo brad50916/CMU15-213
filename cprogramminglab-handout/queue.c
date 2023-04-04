@@ -157,7 +157,16 @@ bool queue_remove_head(queue_t *q, char *buf, size_t bufsize) {
     /* You need to fix up this code. */
 	if(q == NULL) return false;
 	if(q->head == NULL) return false;
+	if(buf != NULL){
+		strncpy(buf,q->head->value,bufsize-1);
+		buf[bufsize-1] = '\0';
+	}
+	list_ele_t *temp = q->head;
     q->head = q->head->next;
+	free(temp->value);
+	free(temp->next);
+	free(temp);
+	q->size--;
     return true;
 }
 
