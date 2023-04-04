@@ -81,14 +81,14 @@ bool queue_insert_head(queue_t *q, const char *s) {
 		free(newh->value);
 		return false;
 	}
-	strcpy(new->value,s);
+	strcpy(newh->value,s);
 	
 	if(q->head==NULL){
 		newh->next = q->head;
 		q->head = newh;
 		q->last = newh;
 	}else{
-		newh->nest = q->head;
+		newh->next = q->head;
 		q->head = newh;
 	}
 	q->size++;
@@ -111,7 +111,7 @@ bool queue_insert_tail(queue_t *q, const char *s) {
     /* You need to write the complete code for this function */
     /* Remember: It should operate in O(1) time */
 	if(q==NULL) return false;
-	list_ele_t newt = (list_ele_t*)malloc(sizeof(list_ele_t));
+	list_ele_t* newt = (list_ele_t*)malloc(sizeof(list_ele_t));
 	if(newt==NULL){
 		free(newt);
 		return false;
@@ -184,7 +184,7 @@ size_t queue_size(queue_t *q) {
     /* You need to write the code for this function */
     /* Remember: It should operate in O(1) time */
 	if(q == NULL) return 0;
-	return q->size;
+	return (size_t)q->size;
 }
 
 
