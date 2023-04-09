@@ -143,7 +143,7 @@ long allOddBits(long x) {
     long mask = 0xaaaaaaaaaaaaaaaaL;
     x = x & mask;
     x = x ^ mask;
-    return (long)!x;
+    return !x;
 }
 /*
  * isNotEqual - return 0 if x == y, and 1 otherwise
@@ -153,7 +153,8 @@ long allOddBits(long x) {
  *   Rating: 2
  */
 long isNotEqual(long x, long y) {
-    return 2L;
+    long z = x ^ y;
+    return !!z;
 }
 /*
  * dividePower2 - Compute x/(2^n), for 0 <= n <= 62
