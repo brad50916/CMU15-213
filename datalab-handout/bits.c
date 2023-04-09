@@ -125,7 +125,10 @@ extern int printf(const char *, ...);
  *   Rating: 2
  */
 long copyLSB(long x) {
-    return 2;
+    long mask = 0x0000000000000001L;
+    x = mask & x;
+    long reverse = ~x;
+    return reverse + 1;
 }
 /*
  * allOddBits - return 1 if all odd-numbered bits in word set to 1
