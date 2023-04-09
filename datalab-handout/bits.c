@@ -140,7 +140,10 @@ long copyLSB(long x) {
  *   Rating: 2
  */
 long allOddBits(long x) {
-    return 2;
+    long mask = 0xaaaaaaaaaaaaaaaaL;
+    x = x & mask;
+    x = x ^ mask;
+    return (long)!x;
 }
 /*
  * isNotEqual - return 0 if x == y, and 1 otherwise
