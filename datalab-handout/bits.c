@@ -172,8 +172,7 @@ long dividePower2(long x, long n) {
     z = z >> shift;
     z = x & z;
     msb = msb & x;
-    msb = msb >> 63;
-    return y + (msb & !!n & !!z);
+    return y + (!!msb & !!n & !!z);
 }
 // 3
 /*
@@ -185,7 +184,21 @@ long dividePower2(long x, long n) {
  *   Rating: 3
  */
 long remainderPower2(long x, long n) {
-    return 2L;
+    long y = x >> n;
+    y = y << n;
+    long msb = 0x8000000000000000L;
+    msb = msb & x;
+    long z = 0x7fffffffffffffffL;
+    long shift1 = 64 - n - 1;
+    z = z >> shift1;
+    z = x & z;
+    long shift = 0xffffffffffffffffL;
+    shift = shift << n;
+    long help = (!!msb) & (!!z);
+    long mask = 0x0000000000000001L;
+    help = mask & help;
+    long reverse = ~help + 1;
+    return x - y + (shift & reverse);
 }
 /*
  * rotateLeft - Rotate x to the left by n
