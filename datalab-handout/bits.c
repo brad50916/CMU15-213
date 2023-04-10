@@ -217,7 +217,16 @@ long remainderPower2(long x, long n) {
  *   Rating: 3
  */
 long rotateLeft(long x, long n) {
-    return 2;
+    long a = x << n;
+    long b = 64 + ~n + 1;
+    long c = x >> b;
+    long z = 0x01;
+    z = z << 63;
+    z = ~z;
+    long shift = 64 + ~n;
+    z = z >> shift;
+    c = c & z;
+    return a | c;
 }
 /*
  * bitMask - Generate a mask consisting of all 1's
