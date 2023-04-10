@@ -165,7 +165,15 @@ long isNotEqual(long x, long y) {
  *   Rating: 2
  */
 long dividePower2(long x, long n) {
-    return 2L;
+    long y = x >> n;
+    long msb = 0x8000000000000000L;
+    long z = 0x7fffffffffffffffL;
+    long shift = 64 - n - 1;
+    z = z >> shift;
+    z = x & z;
+    msb = msb & x;
+    msb = msb >> 63;
+    return y + (msb & !!n & !!z);
 }
 // 3
 /*
