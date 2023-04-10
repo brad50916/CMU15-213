@@ -125,7 +125,7 @@ extern int printf(const char *, ...);
  *   Rating: 2
  */
 long copyLSB(long x) {
-    long mask = 0x0000000000000001L;
+    long mask = 0x01;
     x = mask & x;
     long reverse = ~x;
     return reverse + 1;
@@ -140,9 +140,12 @@ long copyLSB(long x) {
  *   Rating: 2
  */
 long allOddBits(long x) {
-    long mask = 0xaaaaaaaaaaaaaaaaL;
-    x = x & mask;
-    x = x ^ mask;
+    long mask = 0xaa;
+    long mask1 = (mask << 8) ^ mask;
+    long mask2 = (mask1 << 16) ^ mask1;
+    long mask3 = (mask2 << 32) ^ mask2;
+    x = x & mask3;
+    x = x ^ mask3;
     return !x;
 }
 /*
@@ -165,14 +168,15 @@ long isNotEqual(long x, long y) {
  *   Rating: 2
  */
 long dividePower2(long x, long n) {
+    long msb = x >> 63;
     long y = x >> n;
-    long msb = 0x8000000000000000L;
-    long z = 0x7fffffffffffffffL;
-    long shift = 64 - n - 1;
+    long z = 0x01;
+    z = z << 63;
+    z = ~z;
+    long shift = 64 + ~n;
     z = z >> shift;
     z = x & z;
-    msb = msb & x;
-    return y + (!!msb & !!n & !!z);
+    return y + (msb & !!n & !!z);
 }
 // 3
 /*
@@ -186,19 +190,22 @@ long dividePower2(long x, long n) {
 long remainderPower2(long x, long n) {
     long y = x >> n;
     y = y << n;
-    long msb = 0x8000000000000000L;
-    msb = msb & x;
-    long z = 0x7fffffffffffffffL;
-    long shift1 = 64 - n - 1;
+    long msb = x >> 63;
+
+    long z = 0x01;
+    z = z << 63;
+    z = ~z;
+    long shift1 = 64 + ~n;
     z = z >> shift1;
     z = x & z;
-    long shift = 0xffffffffffffffffL;
+
+    long shift = 0x00;
+    shift = ~shift;
     shift = shift << n;
-    long help = (!!msb) & (!!z);
-    long mask = 0x0000000000000001L;
-    help = mask & help;
+
+    long help = (msb) & (!!z);
     long reverse = ~help + 1;
-    return x - y + (shift & reverse);
+    return (x ^ y) + (shift & reverse);
 }
 /*
  * rotateLeft - Rotate x to the left by n
