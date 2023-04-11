@@ -263,7 +263,11 @@ long bitMask(long highbit, long lowbit) {
  *   Rating: 3
  */
 long isPower2(long x) {
-    return 2L;
+    long one = 0x01;
+    long h = x + ~one + 1;
+    h = h & x;
+    long s = x >> 63;
+    return !h & !!x & !s;
 }
 // 4
 /*
