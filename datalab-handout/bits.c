@@ -239,8 +239,21 @@ long rotateLeft(long x, long n) {
  *   Rating: 3
  */
 long bitMask(long highbit, long lowbit) {
-    return 2L;
+    long z = 0x01;
+    z = z << 63;
+    long shift1 = 64 + ~highbit;
+    long shift2 = 64 + ~lowbit;
+    long h = z >> shift1;
+    long l = z >> shift2;
+    l = l >> 1;
+    h = h << 1;
+    l = l << 1;
+    l = l + (!lowbit);
+    h = ~h;
+    l = ~l;
+    return (h ^ l) & h;
 }
+
 /*
  * isPower2 - returns 1 if x is a power of 2, and 0 otherwise
  *   Examples: isPower2(5L) = 0L, isPower2(8L) = 1L, isPower2(0) = 0L
