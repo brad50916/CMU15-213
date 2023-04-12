@@ -335,5 +335,57 @@ long trueThreeFourths(long x) {
  *   Rating: 4
  */
 long bitCount(long x) {
-    return 2;
+    long m = 0x01;
+    m = (m << 8) | m;
+    m = (m << 16) | m;
+    m = (m << 32) | m;
+    long m0 = m << 4;
+    long ans = 0;
+    long ans0 = 0;
+    long y = x & m;
+    ans = ans + y;
+    y = x & m0;
+    ans0 = ans0 + y;
+    x = x >> 1;
+    y = x & m;
+    ans = ans + y;
+    y = x & m0;
+    ans0 = ans0 + y;
+    x = x >> 1;
+    y = x & m;
+    ans = ans + y;
+    y = x & m0;
+    ans0 = ans0 + y;
+    x = x >> 1;
+    y = x & m;
+    ans = ans + y;
+    y = x & m0;
+    ans0 = ans0 + y;
+    ans0 = ans0 >> 4;
+    ans = ans + ans0;
+    long m1 = 0xff;
+    long m2 = m1 << 32;
+    long ans1 = 0x00;
+    long ans2 = 0x00;
+    long help = ans & m1;
+    ans1 = ans1 + help;
+    help = ans & m2;
+    ans2 = ans2 + help;
+    ans = ans >> 8;
+    help = ans & m1;
+    ans1 = ans1 + help;
+    help = ans & m2;
+    ans2 = ans2 + help;
+    ans = ans >> 8;
+    help = ans & m1;
+    ans1 = ans1 + help;
+    help = ans & m2;
+    ans2 = ans2 + help;
+    ans = ans >> 8;
+    help = ans & m1;
+    ans1 = ans1 + help;
+    help = ans & m2;
+    ans2 = ans2 + help;
+    ans2 = ans2 >> 32;
+    return ans1 + ans2;
 }
