@@ -315,7 +315,17 @@ long allAsciiDigits(long x) {
  * overflow) Legal ops: ! ~ & ^ | + << >> Max ops: 20 Rating: 4
  */
 long trueThreeFourths(long x) {
-    return 2;
+    long y = x;
+    y = x >> 2;
+    long msb = x >> 63;
+    long z = 0x01;
+    z = z << 63;
+    z = ~z;
+    long shift = 61;
+    z = z >> shift;
+    z = x & z;
+    long help = (!msb & !!z);
+    return x + ~y + 2 + ~help;
 }
 /*
  * bitCount - returns count of number of 1's in word
