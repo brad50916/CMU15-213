@@ -141,11 +141,11 @@ long copyLSB(long x) {
  */
 long allOddBits(long x) {
     long mask = 0xaa;
-    long mask1 = (mask << 8) ^ mask;
-    long mask2 = (mask1 << 16) ^ mask1;
-    long mask3 = (mask2 << 32) ^ mask2;
-    x = x & mask3;
-    x = x ^ mask3;
+    mask = (mask << 8) ^ mask;
+    mask = (mask << 16) ^ mask;
+    mask = (mask << 32) ^ mask;
+    x = x & mask;
+    x = x ^ mask;
     return !x;
 }
 /*
@@ -281,7 +281,29 @@ long isPower2(long x) {
  *   Rating: 4
  */
 long allAsciiDigits(long x) {
-    return 2;
+    long a = 0x30;
+    a = (a << 8) | a;
+    a = (a << 16) | a;
+    a = (a << 32) | a;
+    x = a ^ x;
+    long f = a << 2;
+    f = a | f;
+    f = x & f;
+    f = f >> 1;
+    long b = x >> 1;
+    b = x & b;
+    long c = x >> 2;
+    c = x & c;
+    c = c << 1;
+    long d = b | c;
+    d = d | f;
+    long e = 0xfc;
+    e = (e << 8) | e;
+    e = (e << 16) | e;
+    e = (e << 32) | e;
+    d = e & d;
+    d = d ^ 0x00;
+    return !d;
 }
 /*
  * trueThreeFourths - multiplies by 3/4 rounding toward 0,
