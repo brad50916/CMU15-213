@@ -1,0 +1,450 @@
+128 This code contains important information about the
+128 UC Stones. Each information is crucial for Mr. Evil's plans, and no one can
+128 understand what his plans are! That is unless you want an unhappy ending...
+99 GOOD LUCK trying to figure out the number you need to move on to the next phase :)
+99 64 This is the total number of square feet taken up by the UC Stones.
+99 When capturing the stones, all stones must fit within the space. Carnegie Mellon
+99 Engineers might be helpful for this project.
+99 128 Students have tried to use this approximation to understand how many
+99 hundreds of pounds of UC Stones are actually in captivity.... They need to
+99 work on their estimation skills.
+99 However, the actual amount of captured stones is significantly higher
+99 than the weak approximation. We are afraid that the students at Carnegie Mellon
+99 need to improve their abilities to estimate.
+50 So far, we believe that 2 students have access to Mr. Evil's plans.
+50 As we are writing this information out, we firmly believe that this is only a conservative
+50 estimate of how many students are breaching our plans :(
+52 So far, we believe that 4 students have access to Mr. Evil's plans.
+52 As we are writing this information out, we firmly believe that this is only a conservative
+52 estimate of how many students are breaching our plans :(
+56 So far, we believe that 8 students have access to Mr. Evil's plans.
+56 As we are writing this information out, we firmly believe that this is only a conservative
+56 estimate of how many students are breaching our plans :(
+64 So far, we believe that 16 students have access to Mr. Evil's plans.
+64 As we are writing this information out, we firmly believe that this is only a conservative
+64 estimate of how many students are breaching our plans :(
+80 So far, we believe that 32 students have access to Mr. Evil's plans.
+80 As we are writing this information out, we firmly believe that this is only a conservative
+80 estimate of how many students are breaching our plans :(
+112 So far, we believe that 64 students have access to Mr. Evil's plans.
+112 As we are writing this information out, we firmly believe that this is only a conservative
+112 estimate of how many students are breaching our plans :(
+176 So far, we believe that 128 students have access to Mr. Evil's plans.
+176 As we are writing this information out, we firmly believe that this is only a conservative
+176 estimate of how many students are breaching our plans :(
+304 So far, we believe that 256 students have access to Mr. Evil's plans.
+304 As we are writing this information out, we firmly believe that this is only a conservative
+304 estimate of how many students are breaching our plans :(
+560 So far, we believe that 512 students have access to Mr. Evil's plans.
+560 As we are writing this information out, we firmly believe that this is only a conservative
+560 estimate of how many students are breaching our plans :(
+1072 So far, we believe that 1024 students have access to Mr. Evil's plans.
+1072 As we are writing this information out, we firmly believe that this is only a conservative
+1072 estimate of how many students are breaching our plans :(
+2096 So far, we believe that 2048 students have access to Mr. Evil's plans.
+2096 As we are writing this information out, we firmly believe that this is only a conservative
+2096 estimate of how many students are breaching our plans :(
+4144 So far, we believe that 4096 students have access to Mr. Evil's plans.
+4144 As we are writing this information out, we firmly believe that this is only a conservative
+4144 estimate of how many students are breaching our plans :(
+8240 So far, we believe that 8192 students have access to Mr. Evil's plans.
+8240 As we are writing this information out, we firmly believe that this is only a conservative
+8240 estimate of how many students are breaching our plans :(
+16432 So far, we believe that 16384 students have access to Mr. Evil's plans.
+16432 As we are writing this information out, we firmly believe that this is only a conservative
+16432 estimate of how many students are breaching our plans :(
+99 Mr. Evil believes that the most important part of his work is to capture the Stones.
+108 2 Mr. Evil has this many plans for how to keep the stones captured.
+108 His 2 plans are constantly changing, so his actions can never be predicted.
+102 This is the total number of times he has gotten frustrated with students trying to hack his plans.
+108 4 Mr. Evil has this many plans for how to keep the stones captured.
+108 His 4 plans are constantly changing, so his actions can never be predicted.
+104 This is the total number of times he has gotten frustrated with students trying to hack his plans.
+108 8 Mr. Evil has this many plans for how to keep the stones captured.
+108 His 8 plans are constantly changing, so his actions can never be predicted.
+108 This is the total number of times he has gotten frustrated with students trying to hack his plans.
+108 16 Mr. Evil has this many plans for how to keep the stones captured.
+108 His 16 plans are constantly changing, so his actions can never be predicted.
+1016 This is the total number of times he has gotten frustrated with students trying to hack his plans.
+108 32 Mr. Evil has this many plans for how to keep the stones captured.
+108 His 32 plans are constantly changing, so his actions can never be predicted.
+1032 This is the total number of times he has gotten frustrated with students trying to hack his plans.
+108 64 Mr. Evil has this many plans for how to keep the stones captured.
+108 His 64 plans are constantly changing, so his actions can never be predicted.
+1064 This is the total number of times he has gotten frustrated with students trying to hack his plans.
+108 128 Mr. Evil has this many plans for how to keep the stones captured.
+108 His 128 plans are constantly changing, so his actions can never be predicted.
+10128 This is the total number of times he has gotten frustrated with students trying to hack his plans.
+73 The total number of minions Mr. Evil has trying to protect his stones.
+42 The actual amount of hundreds of pounds of UC Stones Mr. Evil has captured.
+42 Mr. Evil has erased this many ideas for keeping the UC Stones captured.
+42 Mr. Evil has erased this many ideas for keeping the UC Stones captured.
+42 Mr. Evil has erased this many ideas for keeping the UC Stones captured.
+42 Mr. Evil has erased this many ideas for keeping the UC Stones captured.
+42 Mr. Evil has erased this many ideas for keeping the UC Stones captured.
+42 Mr. Evil has erased this many ideas for keeping the UC Stones captured.
+42 Mr. Evil has erased this many ideas for keeping the UC Stones captured.
+72 Mr. Evil loves pizza!
+512 Ooh a ~mystery~!
+54 Mr. Evil loves pizza!
+329 Ooh a ~mystery~!
+214 Mr. Evil loves the minions!
+72 A newspaper!
+614 Mr. Evil love the minions! (despicable me!)
+514 A newspaper!
+386 You will never find the secret message!
+514 Ooh a ~mystery~!
+942 You will never find the secret message!
+331 Ooh a ~mystery~!
+77 What's black and white and read all over?
+74 A newspaper!
+72 What's black and white and read all over?
+516 A newspaper!
+516 Ooh a ~mystery~!
+333 Ooh a ~mystery~!
+76 A newspaper!
+518 A newspaper!
+78 Mr. Evil loves pizza!
+70 Mr. Evil has secret plans!
+518 Ooh a ~mystery~!
+60 Mr. Evil loves pizza!
+78 Mr. Evil has secret plans!
+335 Ooh a ~mystery~!
+220 Mr. Evil loves the minions!
+78 A newspaper!
+620 Mr. Evil love the minions! (despicable me!)
+520 A newspaper!
+392 You will never find the secret message!
+520 Ooh a ~mystery~!
+948 You will never find the secret message!
+337 Ooh a ~mystery~!
+544 Mr. Evil can make good jokes!
+83 What's black and white and read all over?
+80 A newspaper!
+549 Mr. Evil can make good jokes!
+78 What's black and white and read all over?
+522 A newspaper!
+522 Ooh a ~mystery~!
+339 Ooh a ~mystery~!
+82 A newspaper!
+524 A newspaper!
+84 Mr. Evil loves pizza!
+524 Ooh a ~mystery~!
+66 Mr. Evil loves pizza!
+341 Ooh a ~mystery~!
+226 Mr. Evil loves the minions!
+84 A newspaper!
+626 Mr. Evil love the minions! (despicable me!)
+526 A newspaper!
+398 You will never find the secret message!
+526 Ooh a ~mystery~!
+954 You will never find the secret message!
+343 Ooh a ~mystery~!
+89 What's black and white and read all over?
+86 A newspaper!
+84 What's black and white and read all over?
+528 A newspaper!
+80 Mr. Evil has secret plans!
+528 Ooh a ~mystery~!
+88 Mr. Evil has secret plans!
+345 Ooh a ~mystery~!
+88 A newspaper!
+530 A newspaper!
+90 Mr. Evil loves pizza!
+530 Ooh a ~mystery~!
+72 Mr. Evil loves pizza!
+347 Ooh a ~mystery~!
+232 Mr. Evil loves the minions!
+554 Mr. Evil can make good jokes!
+90 A newspaper!
+632 Mr. Evil love the minions! (despicable me!)
+559 Mr. Evil can make good jokes!
+532 A newspaper!
+404 You will never find the secret message!
+532 Ooh a ~mystery~!
+960 You will never find the secret message!
+349 Ooh a ~mystery~!
+95 What's black and white and read all over?
+92 A newspaper!
+90 What's black and white and read all over?
+534 A newspaper!
+534 Ooh a ~mystery~!
+351 Ooh a ~mystery~!
+94 A newspaper!
+536 A newspaper!
+96 Mr. Evil loves pizza!
+536 Ooh a ~mystery~!
+78 Mr. Evil loves pizza!
+353 Ooh a ~mystery~!
+238 Mr. Evil loves the minions!
+96 A newspaper!
+638 Mr. Evil love the minions! (despicable me!)
+538 A newspaper!
+90 Mr. Evil has secret plans!
+410 You will never find the secret message!
+538 Ooh a ~mystery~!
+98 Mr. Evil has secret plans!
+966 You will never find the secret message!
+355 Ooh a ~mystery~!
+101 What's black and white and read all over?
+98 A newspaper!
+96 What's black and white and read all over?
+540 A newspaper!
+540 Ooh a ~mystery~!
+357 Ooh a ~mystery~!
+564 Mr. Evil can make good jokes!
+100 A newspaper!
+569 Mr. Evil can make good jokes!
+542 A newspaper!
+102 Mr. Evil loves pizza!
+542 Ooh a ~mystery~!
+84 Mr. Evil loves pizza!
+359 Ooh a ~mystery~!
+244 Mr. Evil loves the minions!
+102 A newspaper!
+644 Mr. Evil love the minions! (despicable me!)
+544 A newspaper!
+416 You will never find the secret message!
+544 Ooh a ~mystery~!
+972 You will never find the secret message!
+361 Ooh a ~mystery~!
+107 What's black and white and read all over?
+104 A newspaper!
+102 What's black and white and read all over?
+546 A newspaper!
+546 Ooh a ~mystery~!
+363 Ooh a ~mystery~!
+106 A newspaper!
+548 A newspaper!
+108 Mr. Evil loves pizza!
+100 Mr. Evil has secret plans!
+548 Ooh a ~mystery~!
+90 Mr. Evil loves pizza!
+108 Mr. Evil has secret plans!
+365 Ooh a ~mystery~!
+250 Mr. Evil loves the minions!
+108 A newspaper!
+650 Mr. Evil love the minions! (despicable me!)
+550 A newspaper!
+422 You will never find the secret message!
+550 Ooh a ~mystery~!
+978 You will never find the secret message!
+367 Ooh a ~mystery~!
+574 Mr. Evil can make good jokes!
+113 What's black and white and read all over?
+110 A newspaper!
+579 Mr. Evil can make good jokes!
+108 What's black and white and read all over?
+552 A newspaper!
+552 Ooh a ~mystery~!
+369 Ooh a ~mystery~!
+112 A newspaper!
+554 A newspaper!
+114 Mr. Evil loves pizza!
+554 Ooh a ~mystery~!
+96 Mr. Evil loves pizza!
+371 Ooh a ~mystery~!
+256 Mr. Evil loves the minions!
+114 A newspaper!
+656 Mr. Evil love the minions! (despicable me!)
+556 A newspaper!
+428 You will never find the secret message!
+556 Ooh a ~mystery~!
+984 You will never find the secret message!
+373 Ooh a ~mystery~!
+119 What's black and white and read all over?
+116 A newspaper!
+114 What's black and white and read all over?
+558 A newspaper!
+110 Mr. Evil has secret plans!
+558 Ooh a ~mystery~!
+118 Mr. Evil has secret plans!
+375 Ooh a ~mystery~!
+118 A newspaper!
+560 A newspaper!
+120 Mr. Evil loves pizza!
+560 Ooh a ~mystery~!
+102 Mr. Evil loves pizza!
+377 Ooh a ~mystery~!
+262 Mr. Evil loves the minions!
+584 Mr. Evil can make good jokes!
+120 A newspaper!
+662 Mr. Evil love the minions! (despicable me!)
+589 Mr. Evil can make good jokes!
+562 A newspaper!
+434 You will never find the secret message!
+562 Ooh a ~mystery~!
+990 You will never find the secret message!
+379 Ooh a ~mystery~!
+125 What's black and white and read all over?
+122 A newspaper!
+120 What's black and white and read all over?
+564 A newspaper!
+564 Ooh a ~mystery~!
+381 Ooh a ~mystery~!
+124 A newspaper!
+566 A newspaper!
+126 Mr. Evil loves pizza!
+566 Ooh a ~mystery~!
+108 Mr. Evil loves pizza!
+383 Ooh a ~mystery~!
+268 Mr. Evil loves the minions!
+126 A newspaper!
+668 Mr. Evil love the minions! (despicable me!)
+568 A newspaper!
+120 Mr. Evil has secret plans!
+440 You will never find the secret message!
+568 Ooh a ~mystery~!
+128 Mr. Evil has secret plans!
+996 You will never find the secret message!
+385 Ooh a ~mystery~!
+131 What's black and white and read all over?
+128 A newspaper!
+126 What's black and white and read all over?
+570 A newspaper!
+570 Ooh a ~mystery~!
+387 Ooh a ~mystery~!
+594 Mr. Evil can make good jokes!
+130 A newspaper!
+599 Mr. Evil can make good jokes!
+572 A newspaper!
+132 Mr. Evil loves pizza!
+572 Ooh a ~mystery~!
+114 Mr. Evil loves pizza!
+389 Ooh a ~mystery~!
+274 Mr. Evil loves the minions!
+132 A newspaper!
+674 Mr. Evil love the minions! (despicable me!)
+574 A newspaper!
+446 You will never find the secret message!
+574 Ooh a ~mystery~!
+1002 You will never find the secret message!
+391 Ooh a ~mystery~!
+137 What's black and white and read all over?
+134 A newspaper!
+132 What's black and white and read all over?
+576 A newspaper!
+393 Ooh a ~mystery~!
+578 A newspaper!
+120 Mr. Evil loves pizza!
+138 Mr. Evil has secret plans!
+395 Ooh a ~mystery~!
+680 Mr. Evil love the minions! (despicable me!)
+580 A newspaper!
+1008 You will never find the secret message!
+397 Ooh a ~mystery~!
+609 Mr. Evil can make good jokes!
+138 What's black and white and read all over?
+582 A newspaper!
+399 Ooh a ~mystery~!
+584 A newspaper!
+126 Mr. Evil loves pizza!
+401 Ooh a ~mystery~!
+686 Mr. Evil love the minions! (despicable me!)
+586 A newspaper!
+1014 You will never find the secret message!
+403 Ooh a ~mystery~!
+144 What's black and white and read all over?
+588 A newspaper!
+148 Mr. Evil has secret plans!
+405 Ooh a ~mystery~!
+590 A newspaper!
+132 Mr. Evil loves pizza!
+407 Ooh a ~mystery~!
+692 Mr. Evil love the minions! (despicable me!)
+619 Mr. Evil can make good jokes!
+592 A newspaper!
+1020 You will never find the secret message!
+409 Ooh a ~mystery~!
+150 What's black and white and read all over?
+594 A newspaper!
+411 Ooh a ~mystery~!
+596 A newspaper!
+138 Mr. Evil loves pizza!
+413 Ooh a ~mystery~!
+698 Mr. Evil love the minions! (despicable me!)
+598 A newspaper!
+158 Mr. Evil has secret plans!
+1026 You will never find the secret message!
+415 Ooh a ~mystery~!
+156 What's black and white and read all over?
+600 A newspaper!
+417 Ooh a ~mystery~!
+629 Mr. Evil can make good jokes!
+602 A newspaper!
+144 Mr. Evil loves pizza!
+419 Ooh a ~mystery~!
+704 Mr. Evil love the minions! (despicable me!)
+604 A newspaper!
+1032 You will never find the secret message!
+421 Ooh a ~mystery~!
+162 What's black and white and read all over?
+606 A newspaper!
+423 Ooh a ~mystery~!
+608 A newspaper!
+150 Mr. Evil loves pizza!
+168 Mr. Evil has secret plans!
+425 Ooh a ~mystery~!
+710 Mr. Evil love the minions! (despicable me!)
+610 A newspaper!
+1038 You will never find the secret message!
+427 Ooh a ~mystery~!
+639 Mr. Evil can make good jokes!
+168 What's black and white and read all over?
+612 A newspaper!
+429 Ooh a ~mystery~!
+614 A newspaper!
+156 Mr. Evil loves pizza!
+431 Ooh a ~mystery~!
+716 Mr. Evil love the minions! (despicable me!)
+616 A newspaper!
+1044 You will never find the secret message!
+433 Ooh a ~mystery~!
+174 What's black and white and read all over?
+618 A newspaper!
+178 Mr. Evil has secret plans!
+435 Ooh a ~mystery~!
+620 A newspaper!
+162 Mr. Evil loves pizza!
+437 Ooh a ~mystery~!
+722 Mr. Evil love the minions! (despicable me!)
+649 Mr. Evil can make good jokes!
+622 A newspaper!
+1050 You will never find the secret message!
+439 Ooh a ~mystery~!
+180 What's black and white and read all over?
+624 A newspaper!
+441 Ooh a ~mystery~!
+626 A newspaper!
+168 Mr. Evil loves pizza!
+443 Ooh a ~mystery~!
+728 Mr. Evil love the minions! (despicable me!)
+628 A newspaper!
+188 Mr. Evil has secret plans!
+1056 You will never find the secret message!
+445 Ooh a ~mystery~!
+186 What's black and white and read all over?
+630 A newspaper!
+447 Ooh a ~mystery~!
+659 Mr. Evil can make good jokes!
+632 A newspaper!
+174 Mr. Evil loves pizza!
+449 Ooh a ~mystery~!
+734 Mr. Evil love the minions! (despicable me!)
+634 A newspaper!
+1062 You will never find the secret message!
+451 Ooh a ~mystery~!
+192 What's black and white and read all over?
+636 A newspaper!
+453 Ooh a ~mystery~!
+638 A newspaper!
+180 Mr. Evil loves pizza!
+198 Mr. Evil has secret plans!
+455 Ooh a ~mystery~!
+740 Mr. Evil love the minions! (despicable me!)
+640 A newspaper!
+1068 You will never find the secret message!
+457 Ooh a ~mystery~!
+140 You might want to use a pipe and only look at the first few lines of the file
+140 after you execute the code. Also, if you are confused, you might want to look at the original
+140 ToDo in the comments of listned.c!

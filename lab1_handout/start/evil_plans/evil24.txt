@@ -1,0 +1,295 @@
+39 This file is currently unsorted.
+81 We are trying to understand what everything means.
+98 Make sure to use the -n flag and to remove duplicates! ....
+10 ---------------------------------------------------------
+77 messiness starts now
+77 messiness starts now
+77 messiness starts now
+77 messiness starts now
+77 messiness starts now
+77 messiness starts now
+77 messiness starts now
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+59 hello
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+1 good job on sorting… you might want to remove duplicates
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+5 make sure to type the command about making the file to mr evil
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+3 create a new file
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+4 name it release.txt and put it in we_tried_to/ directory!
+21 secret message: pineapple
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+2 now we want to
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+6 the rest of this doc is
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+7 gibberish!
+359 Maybe you should just look at the first few lines of this file... What command should you use?

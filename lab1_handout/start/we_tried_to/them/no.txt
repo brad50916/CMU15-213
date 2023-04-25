@@ -1,0 +1,41 @@
+/*
+ * @brief Prints out relevant information related to Mr. Evil's plans
+ *
+ * Prints out information relevant to how Mr. Evil constantly changes his
+ * plans. I wouldn't trust this information because it's inconsistent.
+ *
+ * @param[in] x random number used to help determine the total number of for
+ * loop iterations
+ */
+void bar(int x) {
+    printf("99 Mr. Evil believes that the most important part of his work is to capture the Stones. \n");
+    int z = x * x;
+    int y;
+    for (y = 2; y < z; y = y * 2) {
+        printf("108 %d Mr. Evil has this many plans for how to keep the stones captured. \
+        \n108 His %d plans are constantly changing, so his actions can never be predicted. \n", y, y);
+        printf("10%d This is the total number of times he has gotten frustrated with students trying to hack his plans. \n", y);
+    }
+}
+
+
+/*
+ * @brief Prints out information about Mr. Evil's minions and the total weight
+ * of UC Stones.
+ *
+ * Prints out information relevant to his stones and his minions. He sounds a
+ * little like Gru.... It looks like Mr. Evil is coming up with new plans
+ * quickly!
+ *
+ * @param[in] x total number of ideas Mr. Evil has erased.
+ */
+void foo(int x) {
+    printf("%d The total number of minions Mr. Evil has trying to protect his stones. \n", x);
+
+    x = x / 2 + 6;
+    printf("%d The actual amount of hundreds of pounds of UC Stones Mr. Evil has captured. \n", x);
+    int y;
+    for (y = x; y < 512; y = y * 1.5)
+        printf("%d Mr. Evil has erased this many ideas for keeping the UC Stones captured. \n", x);
+
+}
