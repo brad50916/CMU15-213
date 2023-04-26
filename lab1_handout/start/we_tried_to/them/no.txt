@@ -13,7 +13,7 @@ void bar(int x) {
     int y;
     for (y = 2; y < z; y = y * 2) {
         printf("108 %d Mr. Evil has this many plans for how to keep the stones captured. \
-        \n108 His %d plans are constantly changing, so his actions can never be predicted. \n", y, y);
+                \n108 His %d plans are constantly changing, so his actions can never be predicted. \n", y, y);
         printf("10%d This is the total number of times he has gotten frustrated with students trying to hack his plans. \n", y);
     }
 }
